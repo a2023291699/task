@@ -1,0 +1,12 @@
+.dev1 {
+   width: 100%;
+   padding-bottom: 100%;
+}
+.div2 {
+    background-color: darkorange; 
+    width: 31%;
+    padding-bottom: 31%;
+    float: left;
+    margin: 1%;
+    border-radius: 20%;
+ }
